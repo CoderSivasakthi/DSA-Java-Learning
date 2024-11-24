@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Stackdemo {
+public class Stackdemo {
 }
