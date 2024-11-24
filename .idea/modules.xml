@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/DSA_java.iml" filepath="$PROJECT_DIR$/DSA_java.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/JAVA-DSA-SIVA.iml" filepath="$PROJECT_DIR$/JAVA-DSA-SIVA.iml" />
+>>>>>>> 3dd41a7c9d9ee71320c3c0f2c9df2c52873f9cff
     </modules>
   </component>
 </project>
