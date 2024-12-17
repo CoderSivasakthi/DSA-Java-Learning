@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SpaceString {
+
+//LeetCode 2109-Adding Spaces to a String
+public class SpaceString {
+
 }
